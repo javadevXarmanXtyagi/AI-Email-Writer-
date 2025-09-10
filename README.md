@@ -49,13 +49,7 @@ npm install
 npm start
 Backend (Spring Boot): Run using IntelliJ IDEA or terminal with
 
-bash
-Copy
-Edit
-mvn spring-boot:run
-📸 Screenshots
 
-Example of generated email reply and tone selection.
 
 🛠️ Tech Stack
 Frontend: React, Material-UI
@@ -67,8 +61,7 @@ AI API: Gemini API
 Database: Optional (if extended for user storage)
 
 📂 Project Structure
-Copy
-Edit
+
 AI-Email-Writer/
 ├─ frontend/
 ├─ backend/
@@ -77,9 +70,7 @@ AI-Email-Writer/
 🔧 How to Use
 Clone the repository:
 
-bash
-Copy
-Edit
+
 git clone https://github.com/javadevXarmanXtyagi/AI-Email-Writer.git
 Set up your backend .env or application.properties for Gemini API key.
 
